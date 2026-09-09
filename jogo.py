@@ -3,6 +3,7 @@ import random
 numero_secreto = random.randint(1, 100)
 tentativas = 7
 
+
 print("=== JOGO DE ADIVINHAÇÃO ===")
 print("Tente adivinhar o número de 1 a 100!")
 print("Você tem 7 tentativas.")
